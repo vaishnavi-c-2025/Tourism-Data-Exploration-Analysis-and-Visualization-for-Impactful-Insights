@@ -1,6 +1,6 @@
 # Tourism Data Exploration: Analysis and Visualization for Impactful Insights
 
-##Abstract: Tourism happens to be a dynamic and fastevolving sector, which is largely significant to 
+Abstract: Tourism happens to be a dynamic and fastevolving sector, which is largely significant to 
 economic development and cultural exchange. The 
 proposal aims at improving the Indian tourism industry 
 with an application of Artificial Intelligence and 
